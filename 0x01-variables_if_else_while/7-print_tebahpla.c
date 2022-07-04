@@ -3,7 +3,7 @@
 #include <time.h>
 /* more headers goes there */
 /*main()-entry point*/
-/* betty style doc for function main goes there */
+
 int main(void)
 {
 	int x = 'z';
