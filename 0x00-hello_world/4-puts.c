@@ -2,7 +2,7 @@
 /**
  * main -entry point
  * description: prints "programming is like building multilingual puzzle"
- * retun: always return 0
+ * return: always return 0
  **/
 int main(void)
 {
