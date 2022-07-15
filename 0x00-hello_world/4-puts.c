@@ -4,7 +4,7 @@
  *
  * description: prints "programming is like building multilingual puzzle"
  *
- * Return : 0 means no error
+ * Return: 0 means no error
  **/
 int main(void)
 {
