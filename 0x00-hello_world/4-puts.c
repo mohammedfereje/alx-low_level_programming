@@ -2,9 +2,10 @@
 /**
  * main -entry point
  * description: prints "programming is like building multilingual puzzle"
- * retun: 0
+ * retun: always return 0
  **/
-int main(void){
-puts("\"Programming is like building multilingual puzzle");
+int main(void)
+{
+puts("\"Programming is like building a multilingual puzzle");
 return (0);
 }
