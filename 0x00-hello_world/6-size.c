@@ -3,7 +3,7 @@
  * main - Prints sizes of datatypes
  *
  * Return: 0 means no error
- */
+ **/
 int main(void)
 {
 	printf("Size of a char: %zu byte(s)\n", sizeof(char));
